@@ -14,7 +14,6 @@ import Footer from "./footer"
 // Styles
 import "../styles/reset.css"
 import "../styles/accessibility.css"
-import "../styles/global.module.css"
 import "../fonts/fonts.css"
 import style from "./layout.module.css"
 

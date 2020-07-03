@@ -10,7 +10,6 @@ html {
 }
 
 body {
-  background: var(--main-bg-light);
   box-sizing: border-box;
   color: #000;
   font-family: var(--primary-font);
