@@ -1,0 +1,41 @@
+.blogpost__meta,
+.blogpost__tax {
+  font-family: var(--highlight-font);
+  font-size: 80%;
+}
+
+.blogpost {
+  max-width: var(--content-w-regular);
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+.featimg {
+  margin-top: 3rem;
+  margin-left: -2rem;
+  margin-right: -2rem;
+}
+
+.blogpost__title {
+  margin-bottom: 1rem;
+  padding-top: 4rem;
+  font-size: 4rem;
+  text-align: center;
+}
+
+.blogpost__meta::before {
+  display: block;
+  margin: 0 auto 1rem;
+  content: "- — -";
+}
+
+.blogpost__meta,
+.blogpost__tax {
+  margin-top: 0;
+  text-align: center;
+}
+
+.blogpost__content {
+  max-width: var(--content-w-narrow);
+  margin: 3rem auto;
+}
