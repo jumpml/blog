@@ -9,7 +9,7 @@ const Header = ({ siteTitle, siteDesc, menuLinks }) => (
     <div className={style.masthead_info}>
       <Link to="/">
         <img
-          src="/jumpml.svg"
+          src="/jumpML.svg"
           width="366"
           height="374"
           alt={siteTitle}

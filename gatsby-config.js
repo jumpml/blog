@@ -14,7 +14,7 @@ module.exports = {
     },
     description: `Learn and build useful things!`,
     siteUrl: `https://jumpml.com`,
-    logo: `/jumpml.svg`,
+    logo: `/jumpML.svg`,
     social: {
       twitter: `_jumpml`,
     },
