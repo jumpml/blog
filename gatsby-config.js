@@ -7,16 +7,27 @@
 module.exports = {
   /* Your site config here */
   siteMetadata: {
-    title: `JumpML Blog`,
+    title: `JumpML`,
     author: {
       name: `JumpML`,
-      summary: `Let's build useful things!`,
+      summary: `JumpML Blog!`,
     },
-    description: `Blog for JumpML`,
+    description: `Learn and build useful things!`,
     siteUrl: `https://jumpml.com`,
+    logo: `/jumpml.svg`,
     social: {
       twitter: `_jumpml`,
     },
+    menuLinks: [
+      {
+        name: `Home`,
+        link: `/`,
+      },
+      {
+        name: `About`,
+        link: `/about`,
+      },
+    ],
   },
   plugins: [
     {
@@ -82,6 +93,7 @@ module.exports = {
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     `gatsby-plugin-react-helmet`,
+    `gatsby-plugin-postcss`,
     `gatsby-plugin-twitter`,
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline

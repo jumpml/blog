@@ -1,6 +1,6 @@
 ---
 title: My First Post!
-date: 2020-07-03
+date: 2020-07-01
 subject: ["math", "signal processing", "robotics"]
 author: Ragh Prabhu
 description: This is a post about the first post and that's pretty much it

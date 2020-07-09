@@ -1,7 +1,7 @@
 import React from "react"
-import { Link, graphql } from "gatsby"
+import { graphql } from "gatsby"
 import Layout from "../components/layout"
-import _ from "lodash"
+//import _ from "lodash"
 import Img from "gatsby-image"
 
 import "katex/dist/katex.min.css"
@@ -21,6 +21,9 @@ export default function BlogPost({ data }) {
           </figure>
         )}
         <h1 className={style.blogpost__title}>{post.frontmatter.title}</h1>
+        <div className={style.blogpost__readtime}>
+          ~ {post.fields.readingTime.text}
+        </div>
         <div className={style.blogpost__meta}>
           by {post.frontmatter.author}. Published{" "}
           {new Date(post.frontmatter.date).toLocaleDateString("en-US", {
@@ -33,9 +36,9 @@ export default function BlogPost({ data }) {
           Filed under:{" "}
           {post.frontmatter.subject.map((subject, index) => [
             index > 0 && ", ",
-            <Link key={index} to={`/subjects/${_.kebabCase(subject)}`}>
-              {subject}
-            </Link>,
+            //          <Link key={index} to={`/subjects/${_.kebabCase(subject)}`}>
+            subject,
+            //          </Link>,
           ])}
         </div>
 
@@ -64,6 +67,11 @@ export const query = graphql`
               ...GatsbyImageSharpFluid
             }
           }
+        }
+      }
+      fields {
+        readingTime {
+          text
         }
       }
     }
