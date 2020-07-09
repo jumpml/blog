@@ -9,7 +9,7 @@ const AboutPage = () => {
       <SEO
         title="About JumpML"
         description="Information about JumpML"
-        image="/jumpml.svg"
+        image="/jumpML.svg"
         pathname="/about"
         // Boolean indicating whether this is an article:
         // article

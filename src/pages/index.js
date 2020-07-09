@@ -37,9 +37,9 @@ const IndexPage = ({
   return (
     <Layout>
       <SEO
-        title="Home"
+        title="JumpML. Learn and build useful things!"
         description="JumpML Website"
-        image="/jumpml.svg"
+        image="/jumpML.svg"
         pathname="/"
         // Boolean indicating whether this is an article:
         // article
