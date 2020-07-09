@@ -7,24 +7,8 @@
   margin: 2rem 0;
   font-size: 2.6rem;
 }
-
-.articlelist {
-  max-width: var(--content-w-regular);
-  margin: 0 auto;
-  padding: 0 2rem;
-}
-
-.articlelist h2 {
+h2 {
   margin-top: 3rem;
-  font-size: 2.5rem;
+  font-size: 300%;
   text-align: center;
-}
-
-.articlelist ul {
-  margin: 0;
-  padding: 0;
-}
-
-a {
-  color: inherit;
 }

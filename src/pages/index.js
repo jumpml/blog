@@ -20,6 +20,7 @@ import React from "react"
 import { graphql } from "gatsby"
 import PostLink from "../components/post-link"
 import Layout from "../components/layout"
+import SEO from "../components/seo"
 
 import style from "./index.module.css"
 
@@ -35,7 +36,15 @@ const IndexPage = ({
 
   return (
     <Layout>
-      <section className={style.articlelist}>
+      <SEO
+        title="Home"
+        description="JumpML Website"
+        image="/jumpml.svg"
+        pathname="/"
+        // Boolean indicating whether this is an article:
+        // article
+      />
+      <section className={style.wrapper}>
         <h2>Articles</h2>
         <ul>{Posts}</ul>
       </section>
@@ -60,8 +69,8 @@ export const pageQuery = graphql`
             author
             featimg {
               childImageSharp {
-                fixed(width: 300, height: 300, cropFocus: ATTENTION) {
-                  ...GatsbyImageSharpFixed
+                fluid(maxWidth: 300) {
+                  ...GatsbyImageSharpFluid
                 }
               }
             }

@@ -17,24 +17,20 @@ const AboutPage = () => {
       <section className={style.wrapper}>
         <h1 className={style.heading}>About Us</h1>
         <p>
-          We help people build intelligent things that people love to use. We
-          offer the following services
-          <ol>
-            <li> Training and teaching via Articles/Prototypes/Courses </li>
-            <li> DSP/ML and Software consulting services </li>
-            <li>
-              {" "}
-              Low-cost licensing of our ML/DSP algorithms for your projects
-              (COMING SOON!)
-            </li>
-          </ol>
+          Our goal is to help people build useful and intelligent things. We are
+          passionate about math, technology and design and we will be sharing
+          our knowledge by posting on this site.
         </p>
-
         <p>
-          {" "}
-          Contact us at <a href="mailto:jumpml.com@gmail.com">
-            JumpML email
-          </a>{" "}
+          For customers with very specific algorithm needs, we offer the
+          following services
+          <ol>
+            <li> Customizable training on advanced DSP/ML/SW topics</li>
+            <li> DSP/ML and Software consulting services </li>
+            <li> Licensing of our ML/DSP algorithms for your projects</li>
+          </ol>
+          For questions and more details, please contact us at{" "}
+          <a href="mailto:jumpml.com@gmail.com">JumpML email.</a>
         </p>
       </section>
     </Layout>

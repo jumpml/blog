@@ -1,5 +1,5 @@
 .articlelist {
-  max-width: var(--content-w-regular);
+  max-width: var(--content-w-narrow);
   margin: 0 auto;
   padding: 0 2rem;
 }
@@ -19,24 +19,31 @@ a {
   color: inherit;
 }
 
+.article__meta,
+.article__tax {
+  font-family: var(--highlight-font);
+  font-size: 80%;
+}
+
 .listitem {
   margin: 3rem 0;
-  padding: 3rem;
+  padding: 2rem;
   display: flex;
   flex-direction: row-reverse;
-  background: white;
+  background: #c0e0ee;
   border-radius: 1rem;
+  align-content: space-between;
 }
 
 .listitem .featimg {
-  flex: 1 0 30%;
-  margin-left: 2rem;
+  flex: 1 0 50%;
+  max-width: 400px;
 }
 
 .listitem .article__title {
-  font-size: 3rem;
+  font-size: auto;
 }
 
 .listitem .article__content {
-  margin-top: 1rem;
+  margin-top: 2rem;
 }

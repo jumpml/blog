@@ -16,7 +16,7 @@ module.exports = {
     siteUrl: `https://jumpml.com`,
     logo: `/jumpML.svg`,
     social: {
-      twitter: `_jumpml`,
+      twitter: `jumpml_`,
     },
     menuLinks: [
       {

@@ -14,7 +14,7 @@ const PostLink = ({ post }) => (
         <figure className={style.featimg}>
           <Link to={post.fields.slug}>
             <Img
-              fixed={post.frontmatter.featimg.childImageSharp.fixed}
+              fluid={post.frontmatter.featimg.childImageSharp.fluid}
               alt={post.frontmatter.title}
             />
           </Link>

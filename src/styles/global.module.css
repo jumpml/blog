@@ -8,7 +8,7 @@
   --mod-light: 98%;
   --mod-medium: 50%;
   --mod-dark: 20%;
-  --main-bg-light: hsl(183, 42%, var(--mod-light));
+  --main-bg-light: white;
   --main-bg-medium: hsl(183, 42%, var(--mod-medium));
   --main-bg-dark: hsl(183, 42%, var(--mod-dark));
 

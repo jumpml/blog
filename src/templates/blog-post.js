@@ -2,6 +2,7 @@ import React from "react"
 import { graphql } from "gatsby"
 import Layout from "../components/layout"
 //import _ from "lodash"
+import SEO from "../components/seo"
 import Img from "gatsby-image"
 
 import "katex/dist/katex.min.css"
@@ -11,6 +12,14 @@ export default function BlogPost({ data }) {
   const post = data.markdownRemark
   return (
     <Layout>
+      <SEO
+        title={post.frontmatter.title}
+        description={post.excerpt}
+        image="/jumpML.svg"
+        pathname={post.fields.slug}
+        // Boolean indicating whether this is an article:
+        article
+      />
       <article className={style.blogpost}>
         {post.frontmatter.featimg && (
           <figure className={style.featimg}>
@@ -70,6 +79,7 @@ export const query = graphql`
         }
       }
       fields {
+        slug
         readingTime {
           text
         }
