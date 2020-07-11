@@ -3,7 +3,7 @@ import { graphql } from "gatsby"
 import Layout from "../components/layout"
 //import _ from "lodash"
 import SEO from "../components/seo"
-import Img from "gatsby-image"
+// import Img from "gatsby-image"
 
 import "katex/dist/katex.min.css"
 import style from "./blog-post.module.css"
@@ -21,14 +21,14 @@ export default function BlogPost({ data }) {
         article
       />
       <article className={style.blogpost}>
-        {post.frontmatter.featimg && (
+        {/* {post.frontmatter.featimg && (
           <figure className={style.featimg}>
             <Img
               fluid={post.frontmatter.featimg.childImageSharp.fluid}
               alt={post.frontmatter.title}
             />
           </figure>
-        )}
+        )} */}
         <h1 className={style.blogpost__title}>{post.frontmatter.title}</h1>
         <div className={style.blogpost__readtime}>
           ~ {post.fields.readingTime.text}
@@ -72,7 +72,7 @@ export const query = graphql`
         author
         featimg {
           childImageSharp {
-            fluid(maxWidth: 1360) {
+            fluid(maxWidth: 400) {
               ...GatsbyImageSharpFluid
             }
           }

@@ -1,5 +1,5 @@
 ---
-title: Buy a Mac
+title: Buy a Big Mac
 date: 2020-07-03
 subject: ["ML", "signal processing", "electronics"]
 author: Tuffy Cat
