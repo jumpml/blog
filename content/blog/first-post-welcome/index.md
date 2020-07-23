@@ -18,5 +18,13 @@ In our quest to build useful things, we must know how things work and their para
 3. **Build**: complete A-Z steps for the implementation of a useful thing (hardware, software, or both). Example: **Build** a keyword spotter on a Pi.
 4. **Design**: use case, architecture, structure, theory, concepts and ideas behind the implementation of a useful thing. Example: **Design** of a smart voice device.
 5. **Concepts**: math, modeling, theory on how something works. Example: **Concepts** behind MVDR beamforming.
-6. **Review**: a review of a paper, product, conference, competition, markets, hardware, open-source tools, libraries, etc. Example: PyTorch **Review**.
-7. **Perspectives**: aggregate key ideas, overarching philosophies to guide how to look at things with a big-picture context. **Perspectives** on machine-learned intelligence.
+6. **Review**: a review of a paper, product, conference, competition,
+   markets, hardware, open-source tools, libraries, etc. Example: BERT
+   **Review**.
+
+7. **Perspectives**: aggregate key ideas, overarching philosophies to
+   guide how to look at things with a big-picture context.
+   **Perspectives** on machine-learned intelligence.
+
+8. **Notes**: these notes mostly serve the purpose to remind me of
+   things that I tend to forget. Example: PyTorch **Review**.
