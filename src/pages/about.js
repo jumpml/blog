@@ -2,6 +2,7 @@ import React from "react"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import style from "./about.module.css"
+import { Link } from "gatsby"
 
 const AboutPage = () => {
   return (
@@ -27,7 +28,13 @@ const AboutPage = () => {
           <ol>
             <li> Customizable training on advanced DSP/ML/SW topics</li>
             <li> DSP/ML and Software consulting services </li>
-            <li> Licensing of our ML/DSP algorithms for your projects</li>
+            <li>
+              {" "}
+              Licensing of our <Link to="/solutions">
+                ML/DSP algorithms
+              </Link>{" "}
+              for your projects
+            </li>
           </ol>
           For questions and more details, please contact us at{" "}
           <a href="mailto:jumpml.com@gmail.com">JumpML email.</a>
