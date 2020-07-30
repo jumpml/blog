@@ -60,7 +60,7 @@ allow easy use and expression of high-level ideas quickly.
 
 ## High-level example using JumpML library
 
-```{.python language="Python"}
+```python
 import jumpml
 import torch.optim as optim
 
