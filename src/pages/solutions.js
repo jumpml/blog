@@ -17,7 +17,7 @@ const SolutionsPage = () => {
       <section className={style.wrapper}>
         <h2>Our Solutions</h2>
 
-        <h3> Multi-platform, scalable, robust</h3>
+        <h3> Energy-efficient, scalable, low-latency</h3>
 
         <li className={style.flexcontainer}>
           <img
@@ -28,16 +28,16 @@ const SolutionsPage = () => {
             className={style.site_logo}
           />
           <ul className={style.ul}>
-            micClean
+            soundClean
             <li className={style.flexitem}>Echo cancelation</li>
             <li className={style.flexitem}>BF + Dereverb</li>
             <li className={style.flexitem}>Noise suppression</li>
           </ul>
           <ul className={style.ul}>
             soundCatch
-            <li className={style.flexitem}>Keyword Spotting</li>
+            <li className={style.flexitem}>Keyword Spotting + SV </li>
             <li className={style.flexitem}>Speech Recognition</li>
-            <li className={style.flexitem}>Sound Events</li>
+            <li className={style.flexitem}>Sound Event Localization</li>
           </ul>
           <ul className={style.ul}>
             soundPlay

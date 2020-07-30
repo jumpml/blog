@@ -26,14 +26,13 @@ const AboutPage = () => {
           For customers with very specific algorithm needs, we offer the
           following services
           <ol>
-            <li> Customizable training on advanced DSP/ML/SW topics</li>
-            <li> DSP/ML and Software consulting services </li>
+            <li> Customizable training on DSP/ML/SW topics</li>
+            <li> DSP/ML and software consulting services </li>
             <li>
               {" "}
               Licensing of our <Link to="/solutions">
-                ML/DSP algorithms
+                DSP/ML algorithms
               </Link>{" "}
-              for your projects
             </li>
           </ol>
           For questions and more details, please contact us at{" "}
