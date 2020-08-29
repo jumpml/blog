@@ -22,7 +22,7 @@ conda install -c pytorch torchaudio
 
 The -c option searches on the pytorch channel.
 
-This notebook is available on github at this [link].(https://github.com/jumpml/pytorch-tutorials/blob/master/SpeechCommands_CNN.ipynb)
+This notebook is available on github at this [link](https://github.com/jumpml/pytorch-tutorials/blob/master/SpeechCommands_CNN.ipynb)
 
 ## Data Setup
 
