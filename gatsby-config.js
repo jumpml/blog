@@ -12,7 +12,7 @@ module.exports = {
       name: `JumpML`,
       summary: `JumpML Blog!`,
     },
-    description: `Learn and build useful things!`,
+    description: `Build useful things!`,
     siteUrl: `https://jumpml.com`,
     logo: `/jumpML.svg`,
     social: {

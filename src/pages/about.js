@@ -36,7 +36,7 @@ const AboutPage = () => {
             </li>
           </ol>
           For questions and more details, please contact us at{" "}
-          <a href="mailto:jumpml.com@gmail.com">JumpML email.</a>
+          <a href="mailto:info@jumpml.com">JumpML email.</a>
         </p>
       </section>
     </Layout>
