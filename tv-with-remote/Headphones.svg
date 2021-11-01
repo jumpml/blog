@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   id="svg5332"
+   viewBox="0 0 256.00007 256.00002"
+   height="72.248894mm"
+   width="72.248909mm">
+  <title
+     id="title6166">Headphones</title>
+  <defs
+     id="defs5334" />
+  <metadata
+     id="metadata5337">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Headphones</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Josh &quot;Cheeseness&quot; Bush</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:description>Originally created for the official shirt for the 2014 Open Source Developers' Conference held at Griffith University.</dc:description>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>headphones</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:date>2014-10-22</dc:date>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-362.5464,-406.21469)"
+     id="layer1">
+    <path
+       id="rect9198-2"
+       d="m 490.54654,406.2147 c -40.9999,0 -69.6899,15.25512 -87.0766,36.57952 -17.3867,21.32441 -23.5253,48.50148 -20.2588,72.36884 4.9679,36.29955 19.3346,67.5168 25.5461,79.73367 -1.0861,0.93858 -1.7739,2.3248 -1.7739,3.87946 0,2.83993 2.2864,5.12557 5.1264,5.12557 l 3.9865,0 0,19.38441 c 0,5.72183 3.8582,10.50767 9.1249,11.91424 0.9444,3.47971 4.1057,6.02833 7.8924,6.02833 l 8.9351,0 c 4.5363,0 8.1886,-3.65229 8.1886,-8.18854 l 0,-68.52904 c 0,-4.53625 -3.6523,-8.18828 -8.1886,-8.18828 l -8.9351,0 c -3.7867,0 -6.948,2.54861 -7.8924,6.02833 -5.2667,1.40631 -9.1249,6.19214 -9.1249,11.91423 l 0,18.92647 c -5.5852,-10.85332 -20.1263,-41.70406 -25.0161,-77.43259 -0.1264,-0.92389 -0.232,-1.85524 -0.3274,-2.79021 3.9407,-20.80361 18.1149,-41.67186 36.7694,-55.47225 15.9529,-11.80167 39.2145,-19.9763 63.0244,-19.9763 23.8097,0 47.0712,8.17463 63.0244,19.9763 18.6537,13.79987 32.827,34.6671 36.7683,55.46993 -0.095,0.93574 -0.2009,1.86787 -0.3266,2.79253 -4.8897,35.72853 -19.4308,66.57927 -25.0159,77.43259 l 0,-18.92647 c 0,-5.72209 -3.8583,-10.50792 -9.125,-11.91423 -0.9445,-3.47972 -4.1056,-6.02833 -7.8923,-6.02833 l -8.9353,0 c -4.5362,0 -8.1885,3.65203 -8.1885,8.18828 l 0,68.52904 c 0,4.53625 3.6523,8.18854 8.1885,8.18854 l 1.6696,0 c -2.298,1.93947 -5.0208,3.75067 -8.2571,5.24945 -8.8293,4.08912 -17.8609,5.40683 -24.4366,5.75093 -0.9403,-3.25383 -3.9271,-5.62215 -7.4918,-5.62215 l -10.8474,0 c -4.3235,0 -7.804,3.48049 -7.804,7.804 0,4.32324 3.4805,7.80373 7.804,7.80373 l 10.8474,0 c 3.6479,0 6.6872,-2.48216 7.5506,-5.8537 6.9846,-0.34978 16.6099,-1.74578 26.1092,-6.14501 5.2688,-2.43992 9.3331,-5.65332 12.4582,-8.98725 l 1.3332,0 c 3.7867,0 6.9478,-2.54862 7.8923,-6.02833 5.2667,-1.40657 9.125,-6.19241 9.125,-11.91424 l 0,-19.38441 3.9864,0 c 2.8399,0 5.1263,-2.28564 5.1263,-5.12557 0,-1.55466 -0.6877,-2.94088 -1.7738,-3.87946 6.2114,-12.21687 20.5782,-43.43412 25.5461,-79.73367 3.2665,-23.86736 -2.8721,-51.04443 -20.2588,-72.36884 -17.3868,-21.3244 -46.0768,-36.57952 -87.0764,-36.57952 z m 0,11.70354 c 38.7987,0 64.9391,11.84804 80.8662,31.3821 12.9388,15.86916 19.1011,35.41275 19.3571,53.88744 -4.5885,-16.77372 -16.1334,-37.03799 -33.9328,-50.09967 -17.2038,-12.6246 -41.4941,-21.7463 -66.2905,-21.7463 -24.7966,0 -49.0869,9.1217 -66.2908,21.7463 -17.7993,13.06168 -29.3443,33.32595 -33.9326,50.09967 0.2557,-18.47469 6.4182,-38.01828 19.3569,-53.88744 15.9271,-19.53406 42.0675,-31.3821 80.8665,-31.3821 z"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#808080;fill-opacity:0.98196076;fill-rule:nonzero;stroke:none;stroke-width:15.45300007;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+  </g>
+</svg>

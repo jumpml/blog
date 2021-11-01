@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   id="svg5332"
+   viewBox="0 0 256.00007 256.00002"
+   height="72.248894mm"
+   width="72.248909mm">
+  <title
+     id="title6769">Washing Machine</title>
+  <defs
+     id="defs5334" />
+  <metadata
+     id="metadata5337">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Washing Machine</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Josh &quot;Cheeseness&quot; Bush</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:description>Originally created for the official shirt for the 2014 Open Source Developers' Conference held at Griffith University.</dc:description>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>washing machine clothes washer</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:date>2014-10-22</dc:date>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-362.5464,-406.21469)"
+     id="layer1">
+    <path
+       id="rect4577-4"
+       d="m 401.38949,406.2147 c -4.4758,0 -8.0794,3.60369 -8.0794,8.07928 l 0,34.05535 194.4727,0 0,-34.05535 c 0,-4.47559 -3.6036,-8.07928 -8.0794,-8.07928 l -178.3139,0 z m 23.5365,10.64446 c 5.0767,0 9.5292,4.45285 9.5292,9.52954 0,5.07642 -4.4525,9.529 -9.5292,9.529 -5.0765,0 -9.5291,-4.45258 -9.5291,-9.529 0,-5.07669 4.4526,-9.52954 9.5291,-9.52954 z m 45.6042,0 c 5.0766,0 9.5292,4.45285 9.5292,9.52954 0,5.07642 -4.4526,9.529 -9.5292,9.529 -5.0766,0 -9.5292,-4.45258 -9.5292,-9.529 0,-5.07669 4.4526,-9.52954 9.5292,-9.52954 z m 45.6042,0 c 5.0766,0 9.5292,4.45285 9.5292,9.52954 0,5.07642 -4.4526,9.529 -9.5292,9.529 -5.0766,0 -9.5292,-4.45258 -9.5292,-9.529 0,-5.07669 4.4526,-9.52954 9.5292,-9.52954 z m 45.6042,0 c 5.0766,0 9.5292,4.45285 9.5292,9.52954 0,5.07642 -4.4526,9.529 -9.5292,9.529 -5.0766,0 -9.5292,-4.45258 -9.5292,-9.529 0,-5.07669 4.4526,-9.52954 9.5292,-9.52954 z m -136.8126,2.10504 c -3.7998,0 -7.4243,3.62458 -7.4243,7.4245 0,3.79965 3.6245,7.42423 7.4243,7.42423 3.7999,0 7.4244,-3.62458 7.4244,-7.42423 0,-3.79992 -3.6245,-7.4245 -7.4244,-7.4245 z m 45.6042,0 c -3.7998,0 -7.4244,3.62458 -7.4244,7.4245 0,3.79965 3.6246,7.42423 7.4244,7.42423 3.7999,0 7.4244,-3.62458 7.4244,-7.42423 0,-3.79992 -3.6245,-7.4245 -7.4244,-7.4245 z m 45.6042,0 c -3.7999,0 -7.4244,3.62458 -7.4244,7.4245 0,3.79965 3.6245,7.42423 7.4244,7.42423 3.7999,0 7.4244,-3.62458 7.4244,-7.42423 0,-3.79992 -3.6245,-7.4245 -7.4244,-7.4245 z m 45.6042,0 c -3.7999,0 -7.4244,3.62458 -7.4244,7.4245 0,3.79965 3.6245,7.42423 7.4244,7.42423 3.7998,0 7.4244,-3.62458 7.4244,-7.42423 0,-3.79992 -3.6246,-7.4245 -7.4244,-7.4245 z m -160.3491,33.3535 c -4.4758,0 -8.0794,3.60369 -8.0794,8.07928 l 0,193.73818 c 0,4.47585 3.6036,8.07954 8.0794,8.07954 l 178.3139,0 c 4.4758,0 8.0794,-3.60369 8.0794,-8.07954 l 0,-193.73818 c 0,-4.47559 -3.6036,-8.07928 -8.0794,-8.07928 l -178.3139,0 z m 89.1583,33.87712 c 18.6948,0 37.0331,7.5985 50.2523,20.81767 13.2193,13.21917 20.8179,31.55734 20.8179,50.25226 0,18.69491 -7.5986,37.03599 -20.8179,50.25516 -13.2192,13.21917 -31.5575,20.81503 -50.2523,20.81503 -18.6948,0 -37.0358,-7.59586 -50.255,-20.81503 -13.2192,-13.21917 -20.8151,-31.56025 -20.8151,-50.25516 0,-18.69492 7.5959,-37.03309 20.8151,-50.25226 13.2192,-13.21917 31.5602,-20.81767 50.255,-20.81767 z m 0,14.03209 c -14.8438,0 -29.8377,6.21066 -40.3339,16.70677 -10.4962,10.4961 -16.7042,25.48737 -16.7042,40.33107 0,14.84396 6.208,29.83787 16.7042,40.33397 10.4962,10.49638 25.4901,16.70413 40.3339,16.70413 14.8439,0 29.835,-6.20775 40.3312,-16.70413 10.4962,-10.4961 16.7069,-25.49001 16.7069,-40.33397 0,-14.8437 -6.2107,-29.83497 -16.7069,-40.33107 -10.4962,-10.49611 -25.4873,-16.70677 -40.3312,-16.70677 z"
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+  </g>
+</svg>
