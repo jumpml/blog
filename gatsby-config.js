@@ -24,8 +24,16 @@ module.exports = {
         link: `/`,
       },
       {
-        name: `Solutions`,
+        name: `Products`,
+        link: `/products`,
+      },
+      {
+        name: `Use Cases`,
         link: `/solutions`,
+      },
+      {
+        name: `Blog`,
+        link: `/blog`,
       },
       {
         name: `About`,
@@ -119,12 +127,6 @@ module.exports = {
       },
     },
     `gatsby-transformer-sharp`,
-    {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        //trackingId: `ADD YOUR TRACKING ID HERE`,
-      },
-    },
     {
       resolve: `gatsby-plugin-manifest`,
       options: {

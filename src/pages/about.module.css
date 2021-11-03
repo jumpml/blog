@@ -6,10 +6,75 @@
 .heading {
   margin: 2rem 0;
   font-size: 2.6rem;
+}
+h2 {
+  margin-top: 3rem;
+  font-size: 300%;
   text-align: center;
+}
+
+h3 {
+  margin-top: 3rem;
+  font-size: 200%;
+  font-style: italic;
+  text-align: center;
+  font-family: monospace;
+  color: black;
+}
+
+.flexcontainer {
+  /* We first create a flex layout context */
+  display: flex;
+  background: #c0e0ee;
+  border-radius: 1rem;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  padding: 0.5rem;
+  margin: 2rem;
+  list-style: none;
+}
+
+.flexitem {
+  padding: 0.5rem;
+  background-color: rgba(255, 255, 255, 0.701);
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  line-height: 1.0rem;
+  color: black;
+  font-weight: bold;
+  font-size: 0.8rem;
+  text-align: center;
+  border-radius: 0.5rem;
+}
+
+.ul {
+  padding: 0.5rem;
+  margin-top: 4rem;
+  margin-bottom: 2rem;
+  line-height: 2rem;
+  color: black;
+  font-weight: bold;
+  font-size: 1.2rem;
+  text-align: center;
+}
+
+.title {
+  font-size: auto;
+}
+
+.content {
+  margin-top: 6rem;
+  font-size: auto;
+}
+
+.site_logo {
+  margin: 1rem;
+  max-width: 6rem;
 }
 
 .image {
   margin-left: 2rem;
   float: right;
 }
+
+
