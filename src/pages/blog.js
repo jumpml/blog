@@ -1,21 +1,3 @@
-// import React from "react"
-// import Layout from "../components/layout"
-
-// import style from "./index.module.css"
-
-// const IndexPage = () => {
-//   return (
-//     <Layout>
-//       <section className={style.wrapper}>
-//         <p>Coming Soon!</p>
-//         <p>We will have lots of articles on several interesting topics.</p>
-//       </section>
-//     </Layout>
-//   )
-// }
-
-// export default IndexPage
-
 import React from "react"
 import { graphql } from "gatsby"
 import PostLink from "../components/post-link"

@@ -12,7 +12,7 @@ module.exports = {
       name: `JumpML`,
       summary: `JumpML Blog!`,
     },
-    description: `Build useful things!`,
+    description: `Learn and enjoy!`,
     siteUrl: `https://jumpml.com`,
     logo: `/jumpML.svg`,
     social: {
@@ -24,20 +24,12 @@ module.exports = {
         link: `/`,
       },
       {
-        name: `Products`,
-        link: `/products`,
-      },
-      {
-        name: `Use Cases`,
-        link: `/solutions`,
-      },
-      {
         name: `Blog`,
         link: `/blog`,
       },
       {
-        name: `About`,
-        link: `/about`,
+        name: `Github`,
+        link: `https://github.com/jumpml/rocketship`,
       },
     ],
   },

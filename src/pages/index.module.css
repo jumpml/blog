@@ -129,4 +129,28 @@ h3 {
   text-align: center;
 }
 
-
+/* .announcement-banner {
+  background-color: #f7f7f7;
+  border-left: 5px solid #3498db;
+  padding: 20px;
+  margin: 20px 0;
+  font-family: Arial, sans-serif;
+}
+.announcement-banner h2 {
+  margin-top: 0;
+  color: #333;
+  font-size: 24px;
+  text-align: center;
+}
+.announcement-banner p {
+  color: #555;
+  font-size: 16px;
+  line-height: 1.6;
+  text-align: center;
+}
+.announcement-banner a {
+  color: #3498db;
+  text-decoration: none;
+  font-weight: bold;
+  text-align: center;
+} */
